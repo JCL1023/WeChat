@@ -4,7 +4,7 @@ cccccccc
 dddddddd  second commit
 eeeeeeee  3th commit
 ffffffff  4th commit
-gggggggg  5th commit
+gggggggg  5th commit edit by hot_fix branch
 hhhhhhhh  6th commit
 iiiiiiii  7th commit
 jjjjjjjj  8th commit
